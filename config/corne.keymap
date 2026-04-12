@@ -14,9 +14,9 @@
 
                 default_layer {
 // -----------------------------------------------------------------------------------------
-// |  TAB |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  | ENT  |
-// | CTRL |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |  '   |
-// | SHFT |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | ESC  |
+// |  TAB |  B  |  L  |  D  |  C  |  V  |   |  J  |  Y   |  O  |  U  |  ,  | ENT  |
+// | CTRL |  N  |  R  |  T  |  S  |  G  |   |  P  |  H   |  A  |  E  |  I  |  '   |
+// | SHFT |  X  |  Q  |  M  |  W  |  Z  |   |  K  |  F   |  '  |  ;  |  .  | ESC  |
 //                    | GUI | LWR | SPC |   | BSPC| RSE  | ALT |
                         display-name = "Base";
                         bindings = <
